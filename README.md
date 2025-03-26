@@ -6,7 +6,7 @@ When the program is run, players will see a screen like this:
 <img width="481" alt="Screen Shot 2024-01-01 at 7 38 05 PM" src="https://github.com/prammey/checkers-game/assets/126892844/dddcd4a6-4d3d-45da-88cc-d3bac1671784">
 
 
-Red must go first. 
+Red must go first.
 
 To make a move, click a piece and click on the box the player wants it to go to. If there is an opportunity for a player to jump and take an opponent's piece, the game forces them to take it. If a player's piece makes it to the other side of the board, there will be a '*' on the piece to show it is now a king.
 
