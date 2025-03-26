@@ -1,5 +1,5 @@
 # checkers-game
-Play a simple game of checkers against a friend! 
+Play a simple game of checkers against a friend!
 
 When the program is run, players will see a screen like this:
 
