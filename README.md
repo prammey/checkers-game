@@ -18,4 +18,4 @@ To make a move, click a piece and click on the box the player wants it to go to.
 
 <img width="481" alt="Screen Shot 2024-01-01 at 7 42 26 PM" src="https://github.com/prammey/checkers-game/assets/126892844/d5defccf-8fe1-43a7-a828-6b84bda3a61b">
 
-Thank you for checking out my project! Have fun!
+Thank you for checking out my project! Have fun! 
