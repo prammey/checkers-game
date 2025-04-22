@@ -1,5 +1,6 @@
 # checkers-game
 Play a simple game of checkers against a friend!
+
 When the program is run, players will see a screen like this:
 
 <img width="481" alt="Screen Shot 2024-01-01 at 7 38 05 PM" src="https://github.com/prammey/checkers-game/assets/126892844/dddcd4a6-4d3d-45da-88cc-d3bac1671784">
